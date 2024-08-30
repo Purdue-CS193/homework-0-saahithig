@@ -14,9 +14,11 @@ Syntax highlighted code block
 # Hi
 ## Hello
 ### Hi
+#### Saahithi's first CS193 Homework
 
-- Bulleted
-- List
+- Helpful resources
+- USB-run
+- For students, by students
 
 1. Numbered
 2. List
